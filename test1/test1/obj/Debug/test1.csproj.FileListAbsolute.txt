@@ -1,0 +1,10 @@
+F:\РГУ\Учеба.VII-й семестр\Диплом\test1\test1\bin\Debug\test1.exe.config
+F:\РГУ\Учеба.VII-й семестр\Диплом\test1\test1\bin\Debug\test1.exe
+F:\РГУ\Учеба.VII-й семестр\Диплом\test1\test1\bin\Debug\test1.pdb
+F:\РГУ\Учеба.VII-й семестр\Диплом\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+F:\РГУ\Учеба.VII-й семестр\Диплом\test1\test1\obj\Debug\test1.Form1.resources
+F:\РГУ\Учеба.VII-й семестр\Диплом\test1\test1\obj\Debug\test1.Properties.Resources.resources
+F:\РГУ\Учеба.VII-й семестр\Диплом\test1\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+F:\РГУ\Учеба.VII-й семестр\Диплом\test1\test1\obj\Debug\test1.exe
+F:\РГУ\Учеба.VII-й семестр\Диплом\test1\test1\obj\Debug\test1.pdb
+F:\РГУ\Учеба.VII-й семестр\Диплом\test1\test1\obj\Debug\test1.csproj.ResolveComReference.cache
